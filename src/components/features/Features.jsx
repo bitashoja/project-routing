@@ -7,7 +7,7 @@ export default function Features() {
   return (
     <div className="features">
       <div className="featureItem">
-        <span className="featureTitle">Revanue</span>
+        <span className="featureTitle">Revenue</span>
         <div className="featureContainer">
           <span className="featureMoney">$2,415</span>
           <span className="featureRate">
